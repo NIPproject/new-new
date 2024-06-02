@@ -1051,10 +1051,6 @@ p {
   position: relative;
 }
 
-.row {
-  position: relative;
-  transform-style: preserve-3d;
-}
 
 .col-3 {
   position: relative;
